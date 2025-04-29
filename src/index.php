@@ -16,7 +16,7 @@ const TELEGRAM_BOT_API_URL = 'https://api.telegram.org/bot';
 const TELEGRAM_MAX_MESSAGE_LENGTH = 4096;
 const TELEGRAM_ALERT_TEMPLATE = '[{link}]: {title}';
 
-const EOL = '\r\n';
+const EOL = "\r\n";
 
 const CONFIG = [
 	'ru' => [
